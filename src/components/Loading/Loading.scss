@@ -1,0 +1,12 @@
+.loading {
+  display: flex;
+  flex-direction: column;
+  height: 500px;
+  justify-content: center;
+  align-items: center;
+
+  h5 {
+    padding-top: 20px;
+    font-weight: normal;
+  }
+}
